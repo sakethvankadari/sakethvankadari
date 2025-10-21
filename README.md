@@ -1,6 +1,6 @@
 ## Hi there, I'm Vankadari Saketh 👋
 
-### 💻 SDE (Full Stack Developer Trainee) at Kodnest 
+### 💻 SDE (Java Full Stack Developer Trainee) at Kodnest 
 
 # 💫 About Me:
 🔭 I’m currently Leveling up my Java + Full Stack Development skills.<br>👯 I’m looking to collaborate on Cool open-source projects in backend or automation.<br>🤝 I’m looking for help with Becoming better at DSA and writing clean backend code.<br>🌱 I’m currently learning Spring Boot, React, Git, and advanced Java concepts.<br>💬 Ask me about How I’m learning Java and DSA step-by-step for coding interviews.<br>⚡ Fun fact is I sometimes spend more time debugging than coding—and I love the challenge.
